@@ -1,0 +1,41 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt/
+
+# Compiled binary addons (https://github.com/nodejs/node-gyp/issues/21)
+build/
+
+# Dependency directories
+.idea/
+.vscode/
+
+# IDE files
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.idea/
